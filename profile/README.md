@@ -39,9 +39,7 @@ In essence, our philosophy celebrates the exchange of ideas and the growth that 
 </details>
 -->
 
-🚀 An Insight into Our Culture: At Nymex Open Hub, our flexible and dynamic work environment is at the heart of our innovative spirit. Here, freedom is key—our team members enjoy the liberty to work in ways that best inspire and energize them. This flexibility supports our core belief that innovation thrives when individuals are empowered to explore and collaborate without boundaries.
-
-We value this freedom because it enables new ideas to continuously emerge and converge into exciting new projects. If you’re intrigued by the idea of being part of a group where creative freedom and collaborative energy drive progress, we’d love to hear from you!
+🚀 We value this freedom because it enables new ideas to continuously emerge and converge into exciting new projects. If you’re intrigued by the idea of being part of a group where creative freedom and collaborative energy drive progress, we’d love to hear from you!
 
 <!--
 
