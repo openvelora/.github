@@ -1,21 +1,15 @@
 #### Hi there! 👋
 
-🙋‍♂️ Welcome to Nymex Open Hub' Leap into Open Source and Innovation.
+🙋‍♂️ Welcome!
 
 <details>
   <summary>Read about us ...</summary>
   <br>
-  We are Nymex Open Hub, a group of dedicated professionals embarking on an exciting new journey, focusing on open-source development and cutting-edge technologies. Our commitment centers on computer engineering, software engineering, data engineering, AI, and cybersecurity.
+  Velora is a modern nonprofit project dedicated to developing open source software that empowers individuals and communities. With a focus on digital autonomy, education, and privacy, Velora creates tools that are simple, elegant, and free from corporate influence.
 
-Shifting from our commercial roots, our future lies in fostering innovation and contributing to the open-source community. By immersing ourselves in these critical fields, Nymex Ventures aims to become a beacon of knowledge and progress, shaping the future of technology in meaningful and impactful ways.
+The name "Velora" evokes both speed and value—representing our commitment to building lightweight, purposeful software that respects the user and serves the common good. From decentralized communication to learning platforms and community tech infrastructure, Velora bridges the gap between innovation and ethics.
 
-This new direction represents a significant change in our mission and values. We believe that our dedication to open-source principles and advanced research will inspire others and drive technological advancements. Our path ahead is about making a lasting contribution to the world of engineering and beyond.
-
-At Nymex Open Hub, we specialize in pioneering research to uncover valuable insights from data, developing robust and scalable software solutions, and ensuring the security and integrity of systems through advanced cybersecurity measures. Our team of experts excels in designing and implementing advanced algorithms, optimizing performance, and driving evidence-based decision-making with comprehensive big data analysis.
-
-By actively engaging with the open-source community and sharing our work, we strive to advance the field of data research and foster a culture of innovation. Our mission is to advance technology and innovation through open-source development, cutting-edge research, and a strong commitment to cybersecurity. Our vision is to be a leader in the open-source community, driving progress and inspiring others to make lasting contributions to the world of engineering and technology.
-
-Join us in our quest to unlock the true potential of technology through innovation, collaboration, and dedication. Together, we can shape the future and make a lasting impact on the world of open-source and cybersecurity.
+At Velora, we believe that technology should be beautiful, open, and truly free.
 <br>
 </details>
 
