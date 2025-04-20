@@ -2,6 +2,7 @@
 
 🙋‍♂️ Welcome!
 
+<!-- 
 <details>
   <summary>Read about us ...</summary>
   <br>
@@ -12,10 +13,17 @@ The name "Velora" evokes both speed and value—representing our commitment to b
 At Velora, we believe that technology should be beautiful, open, and truly free.
 <br>
 </details>
+-->
 
 ✍️ In a concise summary, we proudly present ourselves as:
 
-👨‍💻 We are Nymex Open Hub, a team of passionate computer science engineers, researchers and developers dedicated to open-source projects and pioneering advancements in computer engineering, software engineering, data engineering, AI, and cybersecurity. Our mission is to drive innovation and make a lasting impact on the world of technology. If you're interested, you can also <a href="https://github.com/sponsors/nymexhub" target="_blank">sponsor us</a> 😄⚡️. If you want to connect, get in touch with the lead architect of the project, here: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>. We're always expanding and growing 🐧!
+👨‍💻 Velora is a modern nonprofit project dedicated to developing open source software that empowers individuals and communities. With a focus on digital autonomy, education, and privacy, Velora creates tools that are simple, elegant, and free from corporate influence.
+
+The name "Velora" evokes both speed and value—representing our commitment to building lightweight, purposeful software that respects the user and serves the common good. From decentralized communication to learning platforms and community tech infrastructure, Velora bridges the gap between innovation and ethics.
+
+At Velora, we believe that technology should be beautiful, open, and truly free.
+
+If you're interested, you can also <a href="https://github.com/sponsors/nymexhub" target="_blank">sponsor us</a> 😄⚡️. If you want to connect, get in touch with the lead architect of the project, here: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>. We're always expanding and growing 🐧!
 <!--
 <details>
   <summary>Philosophy of the Collective: The Essence of Exchange and Growth</summary>
